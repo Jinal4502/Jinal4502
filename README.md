@@ -5,7 +5,7 @@
 - :student: Currently, I am  pursuing <b>BE</b> in <b>ICT</b> at <b>AIIE</b>.
 - :star2: I am proficient in <b>Python</b>.
 - :woman_technologist: I am good at problem solving skills but also love developing websites.
-- :female_detective: I am also looking forward to explore more of <b>Data Science</b> in the near future.
+- :female_detective: Alongside, am also a <b>Data Science Enthusiast</b> and looking forward to explore more of <b>AI/ML</b> in the near future.
 - ⚡ Fun fact: I have a huge interest in philosophical and mythological stuff.
 
 ## How to reach me?
@@ -37,4 +37,5 @@
 ## GITHUB STATS:
 
 <img src='https://github-readme-stats-sigma-five.vercel.app/api?username=Jinal4502&show_icons=true&include_all_commits=true&count_private=true&theme=algolia' align='left' height="200" width=45%>
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=Jinal4502&theme=algolia' align='right' height="200" width=45%>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinal4502&layout=compact&langs_count=6"/ align='left' height="200" width=45%>
+
