@@ -36,6 +36,6 @@
 
 ## GITHUB STATS:
 
-<img src='https://github-readme-stats-sigma-five.vercel.app/api?username=Jinal4502&show_icons=true&include_all_commits=true&count_private=true&theme=algolia' align='left' height="200" width=45%>
+<img src='https://github-readme-stats-sigma-five.vercel.app/api?username=Jinal4502&show_icons=true&include_all_commits=true&count_private=true&theme=algolia' align='left' height="0">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinal4502&layout=compact&langs_count=6"/ align='left' height="200" width=45%>
 
