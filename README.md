@@ -2,10 +2,10 @@
 <img src="https://komarev.com/ghpvc/?username=Jinal4502&label=Profile%20views&color=0e75b6&style=flat" alt="Jinal4502" />
 
 ## Here's a short intro about myself:
-- :student: Currently, I am  pursuing <b>BE</b> in <b>ICT</b> at <b>AIIE</b>.
-- :star2: I am proficient in <b>Python</b>.
+- :student: I have completed <b>Bachelor of Engineering</b> in <b>Information and Communication Technology</b> in the year <b>2023</b>.
+- :star2: I have done a 9 month data-science research internship at <b>ISRO</b> where I biult a real time weather nowcasting tool for HEM Nowcast.<a href="https://mosdac.gov.in/heavyrain/">Click the checkbox of HEM Nowcast</a>
 - :woman_technologist: I am good at problem solving skills but also love developing websites.
-- :female_detective: Alongside, am also a <b>Data Science Enthusiast</b> and looking forward to explore more of <b>AI/ML</b> in the near future.
+- :female_detective: Alongside, am also a <b>Data Science Enthusiast</b> and currently exploring the field of <b>Artifical Intelligence and Machine Learning</b>.
 - ⚡ Fun fact: I have a huge interest in philosophical and mythological stuff.
 
 ## How to reach me?
