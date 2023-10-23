@@ -3,7 +3,7 @@
 
 ## Here's a short intro about myself:
 - :student: I have completed <b>Bachelor of Engineering</b> in <b>Information and Communication Technology</b> in the year <b>2023</b>.
-- :star2: I have done a 9 month data-science research internship at <b>ISRO</b> where I biult a real time weather nowcasting tool for HEM Nowcast. <a href="https://mosdac.gov.in/heavyrain/">Click the checkbox of HEM Nowcast to view my product.</a>
+- :star2: I have done a 9 month data-science research internship at <b>ISRO</b> where I built a real time weather nowcasting tool for HEM Nowcast under the guidance of Sci. Bipasha Paul Shukla and valueable feedback of fellow scientists, Shivani Shah, Sambit Kumar Panda and A. K. Varma, contributed to the enhancement of our product. <a href="https://mosdac.gov.in/heavyrain/">Click the checkbox of HEM Nowcast to view my product.</a>
 - :woman_technologist: I am good at problem solving skills but also love developing websites.
 - :female_detective: Alongside, am also a <b>Data Science Enthusiast</b> and currently exploring the field of <b>Artifical Intelligence and Machine Learning</b>.
 - ⚡ Fun fact: I have a huge interest in philosophical and mythological stuff.
