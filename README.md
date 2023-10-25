@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=Jinal4502&label=Profile%20views&color=0e75b6&style=flat" alt="Jinal4502" />
 
 ## Here's a short intro about myself:
-- :student: I have completed <b>Bachelor of Engineering</b> in <b>Information and Communication Technology</b> from <b>Gujarat Technological University</b> in the year <b>2023</b>.
+- :student: I have completed <b>Bachelor of Engineering</b> in <b>Information and Communication Technology</b> from <b>Adani Institute of Infrastructure Engineering</b> affialiated <b>Gujarat Technological University</b> in the year <b>2023</b>.
 - :star2: I have done a 9 month data-science research internship at <b>ISRO</b> where I built a real time weather nowcasting tool for HEM Nowcast under the guidance of Sci. Bipasha Paul Shukla and valueable feedback of fellow scientists, Shivani Shah, Sambit Kumar Panda and A. K. Varma, contributed to the enhancement of our product. <a href="https://mosdac.gov.in/heavyrain/">Click the checkbox of HEM Nowcast to view our product.</a>
 - :woman_technologist: I am good at problem solving skills but also love developing websites.
 - :female_detective: Alongside, am also a <b>Data Science Enthusiast</b> and currently exploring the field of <b>Artifical Intelligence and Machine Learning</b>.
