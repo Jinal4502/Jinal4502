@@ -15,7 +15,7 @@
 
 ## Languages and Libraries I am familiar with:
 
-Python, Tensorflow, Pytorch, Sklearn, Numpy, Pandas, Geopandas, Matplotlib, Imageio, Linux, Ubuntu, Shell Scripting, Java, SQL, HTMl-CSS-JS, Django, Flask
+Python, Tensorflow, Pytorch, Sklearn, Numpy, Pandas, Geopandas, Matplotlib, Imageio, Linux, Ubuntu, Shell Scripting, Java, C, SQL, HTMl-CSS-JS, Django, Flask
 
 ## Educational Websites which I use to update myself:
 
