@@ -11,8 +11,6 @@
 ## How to reach me?
 
 <a href='https://www.linkedin.com/in/jinal-vyas-8a43991bb/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
-<a href='https://www.instagram.com/jinaljvyas/'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'></a>
-<a href='https://www.quora.com/profile/Jinal-Vyas-12'><img src='https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white'></a>
 <a href='mailto:jinalvyas.ict19@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
 
 ## Languages and Tools I am familiar with:
