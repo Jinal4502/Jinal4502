@@ -13,7 +13,7 @@
 <a href='https://www.linkedin.com/in/jinal-vyas-8a43991bb/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
 <a href='mailto:jinalvyas.ict19@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
 
-## Languages and Libraries I am familiar with:
+## Languages, Libraries and Tools I am familiar with:
 
 Python, Tensorflow, Pytorch, Sklearn, Numpy, Pandas, Geopandas, Matplotlib, Imageio, Linux, Ubuntu, Shell Scripting, Java, C, SQL, HTMl-CSS-JS, Django, Flask
 
@@ -22,9 +22,3 @@ Python, Tensorflow, Pytorch, Sklearn, Numpy, Pandas, Geopandas, Matplotlib, Imag
 <img src='https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white'> <img src='https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white'>
 <img src='https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white'>
 <img src='https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white'>
-
-## GITHUB STATS:
-
-<img src='https://github-readme-stats-sigma-five.vercel.app/api?username=Jinal4502&show_icons=true&include_all_commits=true&count_private=true&theme=algolia' align='left' height="0">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinal4502&layout=compact&langs_count=6"/ align='left' height="200" width=45%>
-
