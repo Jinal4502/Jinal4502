@@ -1,5 +1,4 @@
 # Hello! This is Jinal! 👋 
-<img src="https://komarev.com/ghpvc/?username=Jinal4502&label=Profile%20views&color=0e75b6&style=flat" alt="Jinal4502" />
 
 ## Here's a short intro about myself:
 - :student: This fall, I will be commencing MS in Computer Science at Arizona State University, Tempe. I have completed <b>Bachelor of Engineering</b> in <b>Information and Communication Technology</b> from <b>Adani Institute of Infrastructure Engineering</b> affialiated <b>Gujarat Technological University</b> in the year <b>2023</b> and secured a <b>Gold Medal</b> in the same, for being the branch topper. Recently, I completed my pre-doctoral fellowship in <b>Computer Science and Automation</b> from <b>Indian Institute of Science (IISc), Bangalore</b>, where my domain was <b>Computational and Data Science</b>. 
