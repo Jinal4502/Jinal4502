@@ -1,11 +1,11 @@
 # Hello! This is Jinal! 👋 
 
 ## Here's a short intro about myself:
-- :student: I am currently pusruing MS in Computer Science at Arizona State University, Tempe. Before that, I earned my pre-doctoral fellowship in <b>Computer Science and Automation</b> from <b>Indian Institute of Science (IISc), Bangalore</b>, where my domain was <b>Computational and Data Science</b>. I have completed <b>Bachelor of Engineering</b> in <b>Information and Communication Technology</b> from <b>Adani Institute of Infrastructure Engineering</b> affialiated <b>Gujarat Technological University</b> in the year <b>2023</b> and secured a <b>Gold Medal</b> in the same, for being the branch topper.
-- :star2: I have done a 9 month data-science research internship at <b>Indian Space Research Organization (ISRO)</b> where I built a real time weather nowcasting tool for HEM Nowcast under the guidance of Sci. Bipasha Paul Shukla. <a href="https://mosdac.gov.in/heavyrain/">Click the checkbox of HEM Nowcast to view our product.</a>
+- :student: I am on my way to becoming a Climate Data Scientist. I am currently pusruing MS in Computer Science at Arizona State University, Tempe. Before that, I earned my pre-doctoral fellowship in <b>Computer Science and Automation</b> from <b>Indian Institute of Science (IISc), Bangalore</b>, where my domain was <b>Computational and Data Science</b>. I have completed <b>Bachelor of Engineering</b> in <b>Information and Communication Technology</b> with a <b>Gold Medal</b>.
+- :star2: The foundation of my passion towards climate science research was inculcated during my data-science research internship at <b>Indian Space Research Organization (ISRO)</b> where I built a real time weather nowcasting tool for HEM Nowcast under the guidance of Sci. Bipasha Paul Shukla. <a href="https://mosdac.gov.in/heavyrain/">Click the checkbox of HEM Nowcast to view our product.</a>
 - :woman_technologist: I have hands on experience in data handling using python alongwith knowledge to implement several Machine Learning Algorithms and Neural Networks, probability and statistics involved.
-- :female_detective: Me being a <b>Data Science Enthusiast</b>, am currently exploring the field of <b>Artifical Intelligence and Machine Learning</b>.
-- ⚡ Fun fact: I have a huge interest in philosophical and mythological stuff.
+- :female_detective: Me being a <b>Climate Data Science Enthusiast</b>, am currently exploring the field of <b>Artifical Intelligence in Climate Science</b>.
+- ⚡ Fun fact: I have a huge interest in philosophical and mythological stuff. 
 
 ## How to reach me?
 
